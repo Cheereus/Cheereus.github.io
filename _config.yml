@@ -99,7 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "github",
+        title: "Github",
         href: "https://github.com/Cheereus"
-    }
+    },
+    {
+        title: "Segmentfault",
+        href: "https://segmentfault.com/blog/cheereus"
+    },
 ]
