@@ -3,7 +3,7 @@ title: CheeReus_11
 SEOTitle: 陈十一的博客 | CheeReus_11
 header-img: img/post-bg-desk.jpg
 email: fanwei1995@hotmail.com
-description: "学会爱人，成为大人"
+description: "因为痛苦太有价值，因为回忆太珍贵，所以我们更要继续往前走"
 keyword: "陈十一, CheeReus_11, iOS, Apple, iPhone"
 url: "http://cheereus.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:   CheeReus__11
-zhihu_username:     陈十一
+zhihu_username:     fan-wei-56
 github_username:    Cheereus
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-112164372-1'            # Format: UA-xxxxxx-xx
