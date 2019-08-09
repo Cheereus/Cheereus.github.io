@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e36515dddd1972d6d97e                            #生成的clientID
   clientSecret: cfc525a98c6e0e0c4399fc82e64ba4226a030e8d    #生成的clientSecret
-  repo: Cheereus.github.io    #仓库名称
+  repo: cheereus.github.io    #仓库名称
   owner: CheeReus_11    #github用户名
   admin: Cheereus
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
