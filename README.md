@@ -1,6 +1,6 @@
 # My Blog | 一万个不回头的方法
 
-我是CheeReus_11, 1995年7月来到这个世界, 目前在武汉读研
+我是CheeReus_11, 1995年7月来到这个世界, 有三年前端开发的工作经历, 目前在武汉读研
 
 我的博客地址: <https://cheereus.com>
 
@@ -64,8 +64,9 @@
 * 克洛普 Jürgen Klopp
 * 多特蒙德 Borussia Dortmund
 * 利物浦 LFC
-
-在此向原仓库作者致以诚挚的感谢
+* 喜欢踢球, 但没速度没技术没体力, 只擅长捡漏
 
 博客搭建教程请点击以下地址:
 <https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B>
+
+在此向原仓库作者致以诚挚的感谢
