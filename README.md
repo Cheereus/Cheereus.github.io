@@ -1,6 +1,6 @@
 # My Blog | 一万个不回头的方法
 
-[![GitHub issues](https://img.shields.io/github/issues/Cheereus/cheereus.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Cheereus/cheereus.github.io.svg?style=flat)](https://github.com/Cheereus/cheereus.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
 [![](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/cheereus.github.io)
 
