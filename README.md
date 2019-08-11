@@ -3,7 +3,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/Cheereus/cheereus.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
 [![](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/cheereus.github.io)
-[![](https://img.shields.io/github/forks/Cheereus/cheereus.github.io.svg?style=social&label=Fork)](https://github.com/cheereus/cheereus.github.io)
 
 我是CheeReus_11, 1995年7月来到这个世界, 有三年前端开发的工作经历, 目前在武汉读研
 
