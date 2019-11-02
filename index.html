@@ -15,7 +15,7 @@ description: "因为痛苦太有价值，因为回忆太珍贵，所以我们更
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:200 }}
+            {{ post.description | post.content | strip_html | truncate:200 }}
         </div>
     </a>
     <p class="post-meta">
