@@ -4,13 +4,13 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
 [![](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/cheereus.github.io)
 
-我是CheeReus_11, 1995年7月来到这个世界, 有三年前端开发的工作经历, 目前在武汉读研
+我是CheeReus_11, 1995年7月来到这个世界, 有三年前端开发的工作经历, 目前在武汉读研，方向是智能计算与机器学习
 
 我的博客地址: <https://cheereus.com>
 
 ## 技能列表
 
-### 前端开发
+### 前端开发 (精通)
 
 * HTML5 & CSS3
 * Javascript & ES6
@@ -19,23 +19,23 @@
 * Node.js
 * Electron
 
-### Python
+### Python (熟练)
 
 * 数据抓取与网络爬虫
 * 文件处理与自动化工作
 
-### MATLAB
+### MATLAB (熟悉)
 
 * 简单图像处理
 * 机器学习相关算法实践
 
-### C++
+### C++ (了解)
 
-* 学习ing...
+* 学习《C++ Primer Plus》中...
 
 ### 开发工具
 
-* Webstorm & Intellij Idea
+* Webstorm & Intellij Idea & Pycharm
 * Visual Studio Code
 * Fiddler & HttpAnalyzer
 * Chrome & Google DevTool
@@ -46,7 +46,7 @@
 ### 证书
 
 * 大学英语六级 517  ...准备刷分
-* 计算机二级(C++)   ...准备参加
+* 计算机二级(C++)   ...准备报名
 
 ### 希望以后点亮的技能
 
