@@ -16,13 +16,17 @@ tags:
 
 ### 先安装 wget
 
-> yum -y install wget
+```shell
+yum -y install wget
+```
 
 实际上在 Vultr 上的 centOS 8 中已经安装了 wget，上一步可以略过。
 
 ### 然后安装ssr一键脚本管理
 
-> wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+```shell
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+```
 
 然后进行参数配置，配置完成启动的时候可能会失败，这时参考下面的问题。
 需要注意的几个问题是：
@@ -33,7 +37,9 @@ Vultr 上买的新服务器(centOS 8)虽然已经安装了 python36(若服务器
 
 因此要先配置 Python36 为默认 Python：
 
-> alternatives --set python /usr/bin/python3
+```shell
+alternatives --set python /usr/bin/python3
+```
 
 至此 ssr 客户端就可以正常启动了。
 
@@ -41,23 +47,29 @@ Vultr 上买的新服务器(centOS 8)虽然已经安装了 python36(若服务器
 
 第二：服务器默认开启了 firewall 防火墙，且默认没有开放任何端口，因此要将所配置的 ssr 端口(以443为例)添加到白名单并重启防火墙
 
-> firewall-cmd --add-port=443/tcp --permanent
-> firewall-cmd --add-port=443/udp --permanent
-> firewall-cmd --reload
+```shell
+firewall-cmd --add-port=443/tcp --permanent
+firewall-cmd --add-port=443/udp --permanent
+firewall-cmd --reload
+```
 
 然后就可以正常连接和使用 ssr 进行科学上网活动了。
 
 ### 附本人所使用的配置
 
-> 加密：aes-256-cfb
-> 协议：origin
-> 混淆：http_post
+```shell
+加密：aes-256-cfb
+协议：origin
+混淆：http_post
+```
 
 设备数限制和线程数限制可自行斟酌，不需要可以直接按回车跳过。具体关于协议和混淆的配置请参考文末的参考文章。
 
 要启动 ssr 一键脚本管理，可以运行
 
-> bash ssr.sh
+```shell
+bash ssr.sh
+```
 
 来管理和配置 ssr 服务端。
 
