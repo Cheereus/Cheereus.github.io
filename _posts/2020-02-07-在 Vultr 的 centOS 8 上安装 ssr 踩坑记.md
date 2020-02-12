@@ -9,6 +9,7 @@ catalog: true
 tags:
     - Linux
     - SSR
+    - 原创
 ---
 
 在 <https://vultr.com> 买好新的服务器之后，先去 <https://www.vps234.com/ipchecker/> 测试一下 ip 有没有被墙
