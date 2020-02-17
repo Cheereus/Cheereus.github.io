@@ -23,10 +23,15 @@
 
 * 数据抓取与网络爬虫
 * 文件处理与自动化工作
+* 机器学习相关算法实践
 
 ### MATLAB (熟悉)
 
 * 简单图像处理
+* 机器学习相关算法实践
+
+### R (了解)
+
 * 机器学习相关算法实践
 
 ### C++ (了解)
@@ -35,13 +40,13 @@
 
 ### 开发工具
 
-* Webstorm & Intellij Idea & Pycharm
 * Visual Studio Code
-* Fiddler & HttpAnalyzer
-* Chrome & Google DevTool
 * Visual Studio
 * Xshell & Xftp
 * Git
+* Webstorm & Intellij Idea & Pycharm
+* Fiddler & HttpAnalyzer
+* Chrome & Google DevTool
 
 ### 证书
 
@@ -54,6 +59,8 @@
 * TensorFlow
 * OpenCV
 * Flutter
+* 日语
+* 司法考试
 
 ## 爱好
 
@@ -68,8 +75,9 @@
 
 * 罗伊斯 Marco Reus
 * 克洛普 Jürgen Klopp
-* 多特蒙德 Borussia Dortmund
 * 利物浦 LFC
+* 多特蒙德 Borussia Dortmund
+* Football Manager 忠实玩家
 
 博客搭建教程请点击以下地址:
 <https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B>
