@@ -2,7 +2,7 @@
 layout:     post
 title:      v2ray客户端结合Chrome的使用教程
 subtitle:   windows上的安装使用说明
-date:       2020-02-07
+date:       2020-03-13
 author:     Cheereus
 header-img: img/post-bg-debug.png
 catalog: true
@@ -79,7 +79,7 @@ tags:
 
 ![插件配置3](/img/post/2020031310.jpg)
 
-##### 选择 auto swith 然后复制 <https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt> 到规则列表网址，然后点击立即更新，点击应用选项
+##### 选择 auto proxy 然后复制 <https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt> 到规则列表网址，然后点击立即更新，点击应用选项
 
 ![插件配置4](/img/post/2020031311.jpg)
 
