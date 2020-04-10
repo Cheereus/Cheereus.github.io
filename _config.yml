@@ -106,4 +106,8 @@ friends: [
         title: "Segmentfault",
         href: "https://segmentfault.com/blog/cheereus"
     },
+    {
+        title: "WhiteStream",
+        href: "https://whitestream35.github.io/"
+    },
 ]
