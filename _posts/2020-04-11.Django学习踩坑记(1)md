@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      Django 学习踩坑记(1)
+subtitle:   安装与初始化
+date:       2020-04-11
+author:     Cheereus
+header-img: img/post-bg-js-version.jpg
+catalog: true
+tags:
+    - 原创
+    - Python
+    - Django
+---
+
+## Django 踩坑记 (1)
+
+### Django 安装
+
+使用 pip 安装即可：
+
+```shell
+pip install Django
+```
+
+pip 会自动选择最新版本进行安装。
+
+此处踩到一坑，由于我的 Anaconda3(Python 3.7.1) 很久未更新，pip 版本只有 10.0.1
+
+而安装最新版 Django 3.0.5 需要 pip 版本最低为 20.0.2
+
+因此要先更新 pip 版本：
+
+```shell
+python -m pip install --upgrade pip
+```
+
+pip 会自动卸载旧版，安装新版，pip 更新完毕后再安装最新版 Django 即可成功
