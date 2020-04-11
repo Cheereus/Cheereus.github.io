@@ -34,4 +34,4 @@ pip 会自动选择最新版本进行安装。
 python -m pip install --upgrade pip
 ```
 
-pip 会自动卸载旧版，安装新版，pip 更新完毕后再安装最新版 Django 即可成功
+pip 会自动卸载旧版再安装新版，pip 更新完毕后再安装最新版 Django 即可成功
