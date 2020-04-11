@@ -4,9 +4,18 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/cheereus.github.io)
 
-我是CheeReus_11, 1995年7月来到这个世界, 有三年前端开发的工作经历, 目前在武汉读研，方向是智能计算与机器学习
+我是陈十一 CheeReus_11, 1995年7月来到这个世界, 有三年前端开发的工作经历, 目前在武汉读研，方向是智能计算与机器学习
 
 我的博客地址: <https://cheereus.com>
+
+## 近一年的个人目标
+
+* C++ 达到熟练水平
+* Python 达到精通水平
+* 补足机器学习的理论知识
+* 补足数据结构与算法的短板
+* 养成良好的编码习惯, 写出更好的代码
+* 在以上目标的基础上, 2021年暑假前往大厂实习
 
 ## 技能列表
 
@@ -24,6 +33,7 @@
 * 数据抓取与网络爬虫
 * 文件处理与自动化工作
 * 机器学习相关算法实践
+* 基于 Django 的后台开发 ... 学习中
 
 ### MATLAB (熟悉)
 
@@ -50,10 +60,10 @@
 
 ### 证书
 
-* PAT乙级   ...已报名 2020.6
-* 大学生英语竞赛A类   ...已报名 2020.6
-* 法律职业资格证书  ...已报名 2020.9
-* 大学英语六级 517  ...准备刷分 2020.6
+* 大学英语六级 517  ... 准备刷分 2020.6
+* PAT乙级   ... 已报名 2020.6
+* 大学生英语竞赛A类   ... 已报名 2020.6
+* 法律职业资格证书  ... 已报名 2020.9
 * 普通话二级甲等 89.5
 * 机动车驾驶证 C1
 
