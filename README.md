@@ -1,4 +1,4 @@
-# My Blog | 一万个不回头的方法
+# My Blog | 每一天都是一种练习
 
 [![GitHub issues](https://img.shields.io/github/issues/Cheereus/cheereus.github.io.svg?style=flat)](https://github.com/Cheereus/cheereus.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
@@ -79,8 +79,8 @@
 
 ### 音乐
 
-* 陈绮贞
-* 魏如萱(<一万个不回头的方法>是她的一首歌名)
+* 陈绮贞(<每一天都是一种练习>是她的一首歌名)
+* 魏如萱
 * 房东的猫
 * 因为她们而学会吉他
 
