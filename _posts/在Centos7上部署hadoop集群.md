@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Hadoop 踩坑记
-subtitle:   (一)在Centos7上部署双机集群
+title:      在Centos7上部署hadoop集群
+subtitle:   Hadoop 踩坑记(一)
 date:       2020-05-17
 author:     Cheereus
 header-img: img/post-bg-universe.jpg
@@ -311,7 +311,7 @@ hdfs dfs -copyFromLocal example /input
 在 `hadoop-2.8.5` 的目录中运行
 
 ```shell
-hadoop jar  share/hadoop/mapreduce/hadoop-mapreduce-examples-2.8.5.jar wordcount /input /output
+hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-2.8.5.jar wordcount /input /output
 ```
 
 WordCount 为 mapreduce 的一个示例程序，用于统计 `/input` 目录中所有文件的单词个数，并将结果存储在 `/output` 目录中。
