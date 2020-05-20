@@ -2,7 +2,7 @@
 layout:     post
 title:      在Centos7上部署hadoop集群
 subtitle:   Hadoop 踩坑记(一)
-date:       2020-05-17
+date:       2020-05-18
 author:     Cheereus
 header-img: img/post-bg-universe.jpg
 catalog: true
