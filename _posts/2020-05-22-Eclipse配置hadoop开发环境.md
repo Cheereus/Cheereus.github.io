@@ -158,7 +158,7 @@ public class WordCount {
 
 ![示例配置2](/img/post/2020052207.png)
 
-(此部分图来自<https://blog.csdn.net/u010185220/article/details/79095179)>
+(此部分图来自<https://blog.csdn.net/u010185220/article/details/79095179>)
 
 右键 WordCount 类，选择 `Build Path -> configure build path` 添加 jar 包
 
