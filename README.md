@@ -17,6 +17,16 @@
 * 养成良好的编码习惯, 写出更好的代码
 * 在以上目标的基础上, 2021年暑假前往大厂实习
 
+## 项目经历及地址
+
+[![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/PdfSplitter)[Python-中文Pdf词频统计](https://github.com/Cheereus/PdfSplitter)
+
+[![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/WeiboEmotionAnalyzer)[Python-微博情感二分类](https://github.com/Cheereus/WeiboEmotionAnalyzer)
+
+[![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/PyQt5-RamanSpectraClassification)[Python-拉曼光谱分类GUI](https://github.com/Cheereus/PyQt5-RamanSpectraClassification)
+
+[前端-指尖客-企业项目](https://www.zhijianke.cc)
+
 ## 技能列表
 
 ### 前端开发 (精通)
@@ -33,20 +43,17 @@
 * 数据抓取与网络爬虫
 * 文件处理与自动化工作
 * 机器学习相关算法实践
-* 基于 Django 的后台开发 ... 学习中
 
 ### MATLAB (熟悉)
 
 * 简单图像处理
 * 机器学习相关算法实践
 
-### R (了解)
+### 正在学习的技能
 
-* 机器学习相关算法实践
-
-### C++ (了解)
-
-* 学习《C++ Primer Plus》中...
+* Hadoop
+* C++
+* Django
 
 ### 开发工具
 
@@ -74,6 +81,11 @@
 * Flutter
 * 日语
 * 注册会计师
+
+### 获奖
+
+* 华为杯中国研究生数学建模竞赛(2019) 成功参与奖
+* 三等学业奖学金(2019)
 
 ## 爱好
 
