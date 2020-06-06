@@ -19,11 +19,11 @@
 
 ## 项目经历及地址
 
-[![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/PdfSplitter)[Python-中文Pdf词频统计](https://github.com/Cheereus/PdfSplitter)
+[Python-中文Pdf词频统计](https://github.com/Cheereus/PdfSplitter) [![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/PdfSplitter)
 
-[![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/WeiboEmotionAnalyzer)[Python-微博情感二分类](https://github.com/Cheereus/WeiboEmotionAnalyzer)
+[Python-微博情感二分类](https://github.com/Cheereus/WeiboEmotionAnalyzer) [![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/WeiboEmotionAnalyzer)
 
-[![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/PyQt5-RamanSpectraClassification)[Python-拉曼光谱分类GUI](https://github.com/Cheereus/PyQt5-RamanSpectraClassification)
+[Python-拉曼光谱分类GUI](https://github.com/Cheereus/PyQt5-RamanSpectraClassification) [![Stars](https://img.shields.io/github/stars/Cheereus/cheereus.github.io.svg?style=social&label=Star)](https://github.com/Cheereus/PyQt5-RamanSpectraClassification)
 
 [前端-指尖客-企业项目](https://www.zhijianke.cc)
 
